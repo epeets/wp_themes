@@ -57,7 +57,6 @@ else my_contact_form_generate_response("error", $message_unsent); //message wasn
 <!doctype html>
 <html lang="en">
 <head>
-<?php include_once("analyticstracking.php") ?>
 <meta charset="utf-8"/>
 <META NAME="description" CONTENT="Official site of Eshcole Peets">
 <META NAME="copyright" CONTENT="(c) 2013 Eshcole.com">
