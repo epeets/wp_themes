@@ -1,0 +1,9 @@
+patching file app/code/core/Mage/Adminhtml/controllers/DashboardController.php
+Hunk #1 FAILED at 76.
+1 out of 1 hunk FAILED -- saving rejects to file app/code/core/Mage/Adminhtml/controllers/DashboardController.php.rej
+
+patching file app/code/core/Mage/Adminhtml/Block/Dashboard/Graph.php
+Reversed (or previously applied) patch detected!  Assume -R? [n]
+Apply anyway? [n]
+Skipping patch.
+1 out of 1 hunk ignored -- saving rejects to file app/code/core/Mage/Adminhtml/Block/Dashboard/Graph.php.rej
